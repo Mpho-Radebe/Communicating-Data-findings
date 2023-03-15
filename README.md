@@ -21,7 +21,3 @@ This is my final project in the Data Analytics Nanodegree from Udacity
 * Most borowers were employed and full time time employees
 * A borrowers occupation has little to no influence on whether a person will take out a loan or not as there was vast list of occupations of people who took out loans.
 
-## Key Insights for Presentation
-
-> For the presentation I begin by showing the relationship between the borrower annual percentage rate (APR). 
-Since the company is based in California, I picked the borrowers state visual to identify where most borrowers are from. 
